@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "劣り",
+  "base_artist": "冨岡 愛",
+  "createdAt": "2026-02-16T14:10:54.696477Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "劣り",
+      "artist": "冨岡愛",
+      "has_synced": false,
+      "path": "select/pl_01_劣り_冨岡愛.txt"
+    }
+  ]
+}
